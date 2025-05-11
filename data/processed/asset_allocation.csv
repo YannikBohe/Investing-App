@@ -1,0 +1,18 @@
+Makro_Regime,Strategie,Single Stocks,ETFs,Bonds,Commodities
+Boom,Konservativ,25,25,40,10
+Boom,Ausgewogen,40,35,15,10
+Boom,Wachstum,65,30,0,5
+Moderate Growth,Konservativ,15,25,50,10
+Moderate Growth,Ausgewogen,30,35,25,10
+Moderate Growth,Wachstum,55,30,5,10
+Recession,Konservativ,5,10,65,20
+Recession,Ausgewogen,20,25,40,15
+Recession,Wachstum,35,30,20,15
+Stagflation,Konservativ,10,10,50,30
+Stagflation,Ausgewogen,25,25,25,25
+Stagflation,Wachstum,40,25,10,25
+Tight Policy,Konservativ,10,20,50,20
+Tight Policy,Ausgewogen,25,30,30,15
+Tight Policy,Wachstum,45,35,5,15
+
+
