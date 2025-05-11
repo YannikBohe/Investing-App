@@ -35,7 +35,7 @@ streamlit run streamlit_app.py
 
 4. Stelle sicher, dass eine `.env`-Datei mit deinem FRED API Key im Projektverzeichnis liegt:
 
-FRED_API_KEY=dein_fred_api_key (Unserer: eecba591aa06b190d9e93c5e)
+FRED_API_KEY=dein_fred_api_key
 
 
 
